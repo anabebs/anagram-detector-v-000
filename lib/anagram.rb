@@ -7,7 +7,7 @@ class Anagram
   end
   
   def match(arr)
-    array.each{|x| x ==x}
+    array.keep_if{|str| x ==x}
     
   end
   
