@@ -11,4 +11,4 @@ class Anagram
       
       name.split('').sort == str.split('').sort
   end
-endend
+end
